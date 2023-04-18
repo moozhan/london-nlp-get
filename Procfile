@@ -1,0 +1,1 @@
+web: node server.js --max-old-space-size=1024 bin/www

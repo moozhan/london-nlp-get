@@ -1,0 +1,4 @@
+save the code of the area as official code.
+then save the higher level code in some value like "is in" --LAs don't have the is in value but hte neighbourhoods have the LA code.
+Also might make sense to make the search based on the code rather than name for the sake of the spaces although it might not be an issue at this point
+list of LAs E09000001-E09000033
